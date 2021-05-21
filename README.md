@@ -1,6 +1,6 @@
 # quizler
 
--[Web Version]n(https://jatinagarwal-1.github.io/quizler_web_app/#/)
+-[Web Version](https://jatinagarwal-1.github.io/quizler_web_app/#/)
 
 A new Flutter application.
 
